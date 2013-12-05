@@ -1,6 +1,6 @@
 
 
-/* First created by JCasGen Thu Dec 05 16:08:58 EST 2013 */
+/* First created by JCasGen Thu Dec 05 17:52:35 EST 2013 */
 package hw1;
 
 import org.apache.uima.jcas.JCas; 
@@ -11,7 +11,7 @@ import org.apache.uima.jcas.tcas.Annotation;
 
 
 /** 
- * Updated by JCasGen Thu Dec 05 16:08:58 EST 2013
+ * Updated by JCasGen Thu Dec 05 17:52:35 EST 2013
  * XML source: /home/yicaoyimu/git/hw1-chenw1/hw1-chenw1/src/main/resources/hw1-chenw1-typesystem.xml
  * @generated */
 public class Base extends Annotation {

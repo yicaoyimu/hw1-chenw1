@@ -8,7 +8,6 @@
     <connection>scm:git:git@github.com:yicaoyimu/hw1-chenw1.git</connection>
     <developerConnection>scm:git:git@github.com:yicaoyimu/hw1-chenw1.git</developerConnection>
   </scm>
-
   <repositories>
     <repository>
       <id>oaqa</id>
